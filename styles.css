@@ -1,0 +1,50 @@
+body {
+    background-color:rgb(98, 0, 170);
+}
+
+.bttext {
+    color: rgb(255, 255, 255);
+    font-family: Consolas;
+    text-align: center;
+}
+
+.text {
+    color: white;
+    font-family: Consolas;
+    text-align: center;
+}
+
+.BtLogo {
+    width: 10%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img1 {
+    border-radius: 10px;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img2 {
+    border-radius: 10px;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tablealign {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
